@@ -1,0 +1,7 @@
+event_id,event_name,zone,start_time,end_time,expected_attendance
+EVT-101,Global Culture Show,C,17:20,17:55,1500
+EVT-102,Future Cities Showcase,B,18:00,18:45,1800
+EVT-103,Mobility Forum,E,18:15,19:00,1200
+EVT-104,Evening Performance,A,19:00,19:50,2200
+EVT-105,Sustainability Talk,D,19:20,20:00,900
+EVT-106,Night Parade,F,20:10,20:45,2500
