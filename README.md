@@ -44,9 +44,7 @@ In a real deployment, the simulated inputs would be replaced by live operational
 
 - Python
 - Flask
-- HTML
-- CSS
-- JavaScript
+- JS/HTML/CSS
 - Scikit-learn
 
 ## Prototype Development
@@ -62,12 +60,21 @@ This is a proof-of-concept designed to demonstrate the feasibility and end-to-en
 ## Future Development
 
 - Connect to live Expo operational data.
-- Retrain and validate the forecasting layer using real historical data.
-- Pilot the system in selected zones.
+- Retrain and improve the accuracy the model the forecasting layer using real historical data.
 - Integrate with the Expo Operations Center.
+- Test the interface with decision-makers and collect feedback.
+- Expand the library of operational interventions to include more flexible options, and add an intelligent conversational assistant that allows    operators to test new scenarios using natural language.
+- Document the results.
 
 ## Team
 
 - Shouq Aljaber
 - Wasan Alkhaldi
 - Aleen Alqasim
+
+## References
+
+
+- https://www.expo2025.or.jp/wp/wp-content/themes/expo2025orjp_2022/assets/pdf/tickets-index/gate_camera_en.pdf?utm_source=chatgpt.com
+- https://www.expo2025.or.jp/en/expo-archive/comm-data-utilisation/007/
+- https://www.expo2030riyadh.sa/ar/news-hub/expo-2030-riyadh-from-planning-to-execution
